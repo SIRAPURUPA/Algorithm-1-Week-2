@@ -1,1 +1,2 @@
-# Algorithm-1-Week-2
+# Repository About?
+Solution for week 2
